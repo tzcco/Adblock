@@ -1,0 +1,4 @@
+#Chặn Quảng Cáo Báo Mới
+
+127.0.0.1 log.api.baomoi.com
+127.0.0.1 *.api.baomoi.com
