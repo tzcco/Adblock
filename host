@@ -1,4 +1,42 @@
 #Chặn Quảng Cáo Báo Mới
 
-127.0.0.1 log.api.baomoi.com
-127.0.0.1 *.api.baomoi.com
+||*.api.baomoi.com
+||*.api.baomoi.com
+
+#Native Tracking Domains | Apple
+
+||acfeedbackws.icloud.com
+||api-adservices.apple.com
+||books-analytics-events.apple.com
+||books-analytics-events.news.apple-dns.net
+||dzc-metrics.mzstatic.com
+||feedbackws.icloud.com
+||iadsdk.apple.com
+||metrics.apple.com
+||metrics.icloud.com
+||metrics.mzstatic.com
+||notes-analytics-events.apple.com
+||notes-analytics-events.news.apple-dns.net
+||securemetrics.apple.com
+||securemvt.apple.com
+||stocks-analytics-events.apple.com
+||stocks-analytics-events.news.apple-dns.net
+||supportmetrics.apple.com
+||weather-analytics-events.apple.com
+||weather-analytics-events.news.apple-dns.net
+||*.weather-analytics-events.news.apple-dns.net
+||*.weather-analytics-events.apple.com
+||*.notes-analytics-events.apple.com
+||*.iadsdk.apple.com
+||*.feedbackws.icloud.com
+||*.feedbackws.fe.apple-dns.net
+||*.api-adservices.apple.com
+||*.acfeedbackws.icloud.com
+||*.xp.apple.com
+
+#Native Tracking Domains | Samsung
+
+||nmetrics.samsung.com
+||insights.samsung.com
+||analytics.samsungknox.com
+||bigdata.ssp.samsung.com
