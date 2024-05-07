@@ -1,3 +1,7 @@
 ||doubleclick.net^
 ||media.net^$third-party
 ||metrics.mzstatic.com^
+||notify.bugsnag.com^
+||sessions.bugsnag.com^
+||api.bugsnag.com^
+||app.bugsnag.com^
