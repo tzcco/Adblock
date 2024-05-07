@@ -7,3 +7,6 @@
 ||app.bugsnag.com^
 ||browser.sentry-cdn.com^
 ||app.getsentry.com^
+||widgets.pinterest.com^
+||udc.yahoo.com^
+||udcm.yahoo.com^
