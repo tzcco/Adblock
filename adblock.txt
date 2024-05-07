@@ -10,3 +10,4 @@
 ||widgets.pinterest.com^
 ||udc.yahoo.com^
 ||udcm.yahoo.com^
+||d3-umami.up.railway.app^
