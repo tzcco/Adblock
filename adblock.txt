@@ -1,1 +1,3 @@
-0.0.0.0 *.zadn.vn
+||doubleclick.net^
+||media.net^$third-party
+||metrics.mzstatic.com^
